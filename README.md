@@ -7,9 +7,9 @@
 
 <h4 align="center">wip</h4>
 
-[//]: # (<img src="">)
+<img src="./src/assets/home.png">
 
-[//]: # (<img src="">)
+<img src="./src/assets/about.png">
 
 ## How To Use
 
