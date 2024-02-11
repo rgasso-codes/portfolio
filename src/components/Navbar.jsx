@@ -14,6 +14,7 @@ const Navbar = () => {
         <NavLink to="/contact" className={({isActive}) => isActive ? 'text-purple-800': 'text-black'}>
           Contact
         </NavLink>
+        <a href="">Download CV</a>
       </nav>
     </header>
   );

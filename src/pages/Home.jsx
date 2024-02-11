@@ -13,7 +13,7 @@ const Home = () => {
           <div className="row-span-1 pt-20">
             <img className="h-96 w-96 shadow-xs content-center justify-center" src={logo} alt="Logo" />
           </div>
-          <h2 className="text-2xl animate-bounce duration-75">Hi, I'm Rebeca!</h2>
+          <h2 className="text-2xl animate-bounce duration-75 font-mono">Hi, I'm Rebeca!</h2>
           <div className="row-span-1 w-2/4 text-xl font-mono">
             <p className="">
               Software Engineer with six years of software development experience.
