@@ -31,7 +31,7 @@ const Experiences = [
 const Education = [
   {
     colegeName: "Biology",
-    date: "March 2020 - Currently",
+    date: "January 2024 - Currently",
     title: "PUCRS",
     description: "Rebeca works as a software engineer for a clothing department store client. She helps the Foundation team to build and maintain the typescript components library that will be used by other development teams.",
   },
