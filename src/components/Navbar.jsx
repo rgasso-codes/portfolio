@@ -1,5 +1,6 @@
 import React from 'react';
 import {NavLink} from "react-router-dom";
+import CV from "../assets/RebecaGassoCV2024.pdf";
 
 const Navbar = () => {
   return (
@@ -14,7 +15,7 @@ const Navbar = () => {
         <NavLink to="/contact" className={({isActive}) => isActive ? 'text-purple-800': 'text-black'}>
           Contact
         </NavLink>
-        <a href="">Download CV</a>
+        <a href={CV} download="RebecaGassoCV.pdf">Download CV</a>
       </nav>
     </header>
   );
